@@ -1,0 +1,105 @@
+/* Navbar */
+.navbar-custom{
+	background: transparent;
+}
+.navbar-nav>li>a{
+	color: #009b96;
+}
+
+/* Header Section */
+.header{
+	background-image: url('../images/parallax_bg1.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-bottom: -8px;
+}
+.header h1{
+	text-align: center;
+	padding-top: 500px;
+	padding-bottom: 100px;
+	color: #009b96;
+	font-size: 5em;
+}
+
+/* About Section */
+.about{
+	background-color: #009b96;
+	color: #fff;
+}
+.about>div{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.feature{
+	border: 1px solid #fff;
+	padding: 30px 5px 30px 5px;
+	text-align: center;
+}
+.feature>i{
+	padding-bottom: 10px;
+}
+
+/* How we help section */
+.how-we-help{
+	padding-top: 100px;
+}
+.how-we-help>h5{
+	color: #4c4c4c;
+}
+.how-we-help>h1{
+	color: #009b96;
+}
+
+/* Boost Your Brand Section */
+.boost-your-brand{
+	background-image: url('../images/parallax_bg2.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.overlay{
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 80px 0px 80px 0px;
+}
+.boost-your-brand .overlay h1{
+	font-size: 4em;
+	color: #009b96;
+}
+.btn-order{
+	border-radius: 0;
+	background-color: transparent;
+	border: 2px solid #009b96;
+	color: #009b96;
+	padding: 10px 50px 10px 50px;
+}
+.btn-order:hover{
+	color: #fff;
+	border: 2px solid #fff;
+	text-decoration: none;
+}
+
+/* Testimonial Section */
+.testimonial{
+	background-color: #009b96;
+	color: #fff;
+}
+.testimonial .container{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.carousel{
+	padding: 20px 0px 50px 0px;
+}
+
+/* Footer */
+footer{
+	color: #4c4c4c;
+}
+footer p{
+	padding: 50px 0px 50px 0px;
+	text-align: center;
+}
+footer p a{
+	color: #009b96;
+}
